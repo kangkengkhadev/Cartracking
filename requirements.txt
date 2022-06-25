@@ -1,0 +1,5 @@
+streamlit
+cvzone
+pickle
+numpy
+opencv-python-headless
